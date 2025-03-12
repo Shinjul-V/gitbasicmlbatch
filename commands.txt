@@ -11,3 +11,5 @@ git add -A => adding all changes to staging area
 git commit -m "commit message" => adding staged files to local respiratory
 
 git remote add origin https://github.com/Shinjul-V/gitbasicmlbatch.git
+
+git remote -v 
