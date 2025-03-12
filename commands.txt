@@ -12,4 +12,4 @@ git commit -m "commit message" => adding staged files to local respiratory
 
 git remote add origin https://github.com/Shinjul-V/gitbasicmlbatch.git
 
-git remote -v 
+git remote -v => to view the given name
